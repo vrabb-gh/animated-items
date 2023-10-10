@@ -36,6 +36,9 @@ OptiFine is **not** required for this resource pack to work. Only versions of Mi
 ## Information on other Resource Packs
 If you are using resource packs which change the textures of any of the ones that this one changes (view the list called "Items with an Animation" above), they will **NOT** be compatible since one of them will overlap the other. So that means that it's either you use custom textures without animations, or animations without custom textures
 
+## Download
+This resource pack can be downloaded [here](https://modrinth.com/resourcepack/animated-items/versions) (link to Modrinth)
+
 ---
 
 *This pack was made by vrabb*
