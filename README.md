@@ -1,3 +1,5 @@
+<img src="https://cdn-raw.modrinth.com/data/uBBepXuH/images/a7a9f3d6b8ab76c5f9889a8570e5760d99507b1d.png" width="100%"/>
+
 # Animated Items for Minecraft 1.18+
 
 Animated Items is a resource pack that animates some textures of Minecraft items. This resource pack works with versions 1.18 and above.
