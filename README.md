@@ -7,6 +7,7 @@ Animated Items is a resource pack that animates some textures of Minecraft items
 ## Items with an Animation
 So far, here are the items that have been animated:
 
+**Version 1.0**
 - Totem of Undying
 - Lava Bucket
 - Slime Ball
@@ -16,6 +17,11 @@ So far, here are the items that have been animated:
 - Copper Ingot
 - Emerald
 - Diamond
+
+**Version 1.1**
+- Iron Sword
+- Golden Sword
+- Diamond Sword
 
 *As more items arrive to Minecraft, more items will be animated*
 
