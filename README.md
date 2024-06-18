@@ -1,4 +1,4 @@
-<img src="https://cdn-raw.modrinth.com/data/uBBepXuH/images/a7a9f3d6b8ab76c5f9889a8570e5760d99507b1d.png" width="100%"/>
+<img src="https://cdn.modrinth.com/data/uBBepXuH/images/8296602be9bbc4aa011694cd814ee24beb75bb0c.png" width="100%"/>
 
 # Animated Items for Minecraft 1.18+
 
@@ -25,6 +25,12 @@ So far, here are the items that have been animated:
 - Golden Sword
 - Diamond Sword
 
+**Version 1.2**
+- Golden Apple
+- Trial Key
+- Ominous Trial Key
+- Ominous Bottle
+
 *As more items arrive to Minecraft, more items will be animated*
 
 ## Examples
@@ -46,9 +52,6 @@ If you are using resource packs that change the textures of any of the ones that
 
 ## Issues and Suggestions
 If there are any issues, or you would like to suggest an addition, please report/suggest them on the [GitHub repository](https://github.com/vrabb-gh/animated-items).
-
-## Announcement
-It has come to my attention that most of you who have downloaded this resource pack still play on version 1.20. This means that I will now start releasing every new version to versions 1.20 and above!
 
 ---
 
