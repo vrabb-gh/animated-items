@@ -60,7 +60,7 @@ OptiFine is **not** required for this resource pack to work. Only versions of Mi
 ## Showcase Video
 Here is a showcase video made by **Critters Mod Menagerie** on YouTube!
 
-[https://www.youtube-nocookie.com/embed/ysI-3P6U9a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share](https://youtu.be/ysI-3P6U9a4?si=R_jTHZwyoRT0kPjI)
+[![nice vid that you should watch](https://img.youtube.com/vi/ysI-3P6U9a4/0.jpg)](https://www.youtube.com/watch?v=ysI-3P6U9a4)
 
 ## Information on other Resource Packs
 If you are using resource packs that change the textures of any of the ones that this one changes (view the list called "Items with an Animation" above), they will **NOT** be compatible since one will overlap the other. So that means that it's either you use custom textures without animations, or animations without custom textures.
