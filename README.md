@@ -1,4 +1,4 @@
-<img src="https://cdn.modrinth.com/data/uBBepXuH/images/8296602be9bbc4aa011694cd814ee24beb75bb0c.png" width="100%"/>
+<img src="https://cdn.modrinth.com/data/uBBepXuH/images/069fd72bf718bc75714e558d1671a4e1da7b4389.png" width="100%"/>
 
 # Animated Items for Minecraft 1.18+
 
@@ -31,6 +31,16 @@ So far, here are the items that have been animated:
 - Ominous Trial Key
 - Ominous Bottle
 
+**Version 1.3**
+- Netherite Sword
+- Amethyst Shard
+- Blaze Rod
+- Breeze Rod
+- Glowstone Dust
+- Glow Ink Sac
+- Glow Berries
+- Golden Carrot
+
 *As more items arrive to Minecraft, more items will be animated*
 
 ## Examples
@@ -46,6 +56,11 @@ Some Examples:
 
 ## Requirements
 OptiFine is **not** required for this resource pack to work. Only versions of Minecraft starting from 1.6 and above, no versions before 1.6 will work since texture animations were added in Minecraft 1.6.
+
+## Showcase Video
+Here is a showcase video made by **Critters Mod Menagerie** on YouTube!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ysI-3P6U9a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Information on other Resource Packs
 If you are using resource packs that change the textures of any of the ones that this one changes (view the list called "Items with an Animation" above), they will **NOT** be compatible since one will overlap the other. So that means that it's either you use custom textures without animations, or animations without custom textures.
