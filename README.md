@@ -60,6 +60,8 @@ OptiFine is **not** required for this resource pack to work. Only versions of Mi
 ## Showcase Video
 Here is a showcase video made by **Critters Mod Menagerie** on YouTube!
 
+*Note that this video showcases version 1.2*
+
 [![nice vid that you should watch](https://img.youtube.com/vi/ysI-3P6U9a4/0.jpg)](https://www.youtube.com/watch?v=ysI-3P6U9a4)
 
 ## Information on other Resource Packs
