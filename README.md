@@ -50,7 +50,7 @@ Some Examples:
 
 *Totem of Undying*
 
-<img src="https://cdn-raw.modrinth.com/data/uBBepXuH/images/3a494fd5bcae5aad363cf4ec145845b3ae37112e.gif" width="200"/>
+<img src="https://cdn.modrinth.com/data/uBBepXuH/images/9d63ffacc64522089e32680bcd2cf55091d9fefb.gif" width="200"/>
 
 *Diamond*
 
